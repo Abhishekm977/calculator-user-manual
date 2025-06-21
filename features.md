@@ -1,6 +1,6 @@
 # 4. Features and Functionalities
 
-## Basic Operations
+## Basic Arithmetic Operations
 - +, -, ×, ÷
 
 ## Scientific Mode
