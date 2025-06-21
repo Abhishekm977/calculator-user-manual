@@ -11,4 +11,5 @@ The Calculator App is a lightweight, easy-to-use software designed for basic ari
 **Target Users:**
 - Students
 - Engineers
+- Scientists
 - Office users
