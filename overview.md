@@ -1,6 +1,6 @@
 # 1. Overview
 
-The Calculator App is a lightweight, easy-to-use software designed for basic arithmetic and advanced scientific calculations...
+The Calculator App is a lightweight, easy-to-use software designed for basic arithmetic and advanced scientific calculations. It is suitable for students, professionals, and casual users who need fast and accurate results...
 
 **Key Features:**
 - Basic operations: Addition, Subtraction, Multiplication, Division
