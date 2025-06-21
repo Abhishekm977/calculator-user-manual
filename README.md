@@ -1,6 +1,6 @@
 # Calculator App – User Manual
 
-This user manual provides step-by-step instructions on how to install, set up, and use the Calculator App. Designed for all users, this guide helps ensure smooth operation of the app and resolves common issues effectively.
+This user manual provides step-by-step instructions on how to install, set up, and use the Calculator App. It is designed for all users. This guide helps ensure smooth operation of the app and resolves common issues effectively.
 
 ## 📚 Table of Contents
 1. [Overview](overview.md)
