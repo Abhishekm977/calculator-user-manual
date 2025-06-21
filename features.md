@@ -14,5 +14,5 @@
 ## Keyboard Shortcuts
 - Numbers: 0–9
 - + - * /: Operations
-- Enter: Calculate
+- Enter: Result
 - Esc: Clear
